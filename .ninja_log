@@ -1,0 +1,9 @@
+# ninja log v6
+7	556	7692066386174864	FScope_autogen/timestamp	ad9907334925bbe4
+7	556	7692066386174864	FScope_autogen/mocs_compilation.cpp	ad9907334925bbe4
+7	556	7692066386174864	C:/Users/Curtis/Desktop/Projects/FScope/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/FScope_autogen/timestamp	ad9907334925bbe4
+7	556	7692066386174864	C:/Users/Curtis/Desktop/Projects/FScope/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/FScope_autogen/mocs_compilation.cpp	ad9907334925bbe4
+575	1914	7692066386871780	CMakeFiles/FScope.dir/main.cpp.obj	842a16ca4b4c46ea
+560	1917	7692066386727598	CMakeFiles/FScope.dir/FScope_autogen/mocs_compilation.cpp.obj	b235946cce7bef84
+578	3313	7692066386903897	CMakeFiles/FScope.dir/mainwindow.cpp.obj	b98b35447eff750c
+3315	3468	7692066414278717	FScope.exe	8bcbaa2855a7056
